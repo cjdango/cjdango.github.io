@@ -18,13 +18,8 @@ module.exports = {
       // Useful if you want to support a single color mode
       disableSwitch: true,
     },
-
     navbar: {
-      title: 'cjdango',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
+      title: "// cjdango",
     },
   },
   presets: [
