@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CJ Dango',
-  tagline: 'The tagline of my site',
+  tagline: 'My personal blog',
   url: 'https://cjdango.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
