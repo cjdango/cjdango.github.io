@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{72:function(n){n.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"[WIP]: Counting minimum steps","permalink":"/coding-challenge-1-counting-minimum-steps"}]}')}}]);

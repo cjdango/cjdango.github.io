@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{73:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","slug":"data-structures","name":"data structures","count":1,"permalink":"/tags/data-structures"}')}}]);
