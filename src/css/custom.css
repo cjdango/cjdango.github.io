@@ -18,10 +18,14 @@
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgba(26, 136, 112, 0.309);
+  background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0,0,0,.3);
 }
 
 .navbar__inner {
