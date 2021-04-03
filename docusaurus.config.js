@@ -20,6 +20,18 @@ module.exports = {
     },
     navbar: {
       title: "// cjdango",
+      items: [
+        {
+          href: 'https://github.com/cjdango',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://twitter.com/cjdango',
+          label: 'Twitter',
+          position: 'right',
+        }
+      ]
     },
   },
   presets: [
