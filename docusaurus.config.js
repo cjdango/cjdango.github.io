@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'CJ Dango',
   tagline: 'The tagline of my site',
   url: 'https://cjdango.github.io',
   baseUrl: '/',
