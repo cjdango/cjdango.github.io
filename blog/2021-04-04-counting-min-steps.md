@@ -14,7 +14,7 @@ on the internet using 3 approaches. The solutions on this blog post are not mine
 <!--truncate-->
 
 ### The challenge
-Given an integer n, return the minimum number of steps to minimize `n` to 1
+Given a positive integer n, return the minimum number of steps to minimize `n` to 1
 
 ### Available steps
 
