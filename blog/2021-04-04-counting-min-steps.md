@@ -139,3 +139,5 @@ fn(n int, memo int[]):
 ```
 
 You can see my golang implementation of this solution [here](https://github.com/cjdango/coding-challenges/blob/main/minsteps/countmemo.go).
+
+### Solution #3 (tabulation)
